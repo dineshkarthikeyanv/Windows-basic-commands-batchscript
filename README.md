@@ -23,8 +23,9 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-
 ## COMMAND AND OUTPUT
+mkdir %userprofile%\Desktop\MyLab
+<img width="864" height="77" alt="image" src="https://github.com/user-attachments/assets/ce8c0895-87f7-4119-9af6-27484c103014" />
 
 Remove the directory "my-folder"
 
